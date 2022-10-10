@@ -1,0 +1,17 @@
+{
+    "name": "gilde/projetophpcomposer",
+    "description": "projeto da aula pw, aula foi ministrada pelo professor Wagner Franca",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gildevande"
+        }
+    ],
+    "require": {}
+}
